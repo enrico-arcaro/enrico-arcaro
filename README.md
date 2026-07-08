@@ -1,6 +1,6 @@
 # Hallo! Ich bin Enrico - Software-Dienstleister für Spring Boot
 
-Ich helfe Agenturen dabei, Engpässe in der Backend-Entwicklung zu schließen, indem ich **modulare, getestete und sauber dokumentierte** Software-Lösungen liefere. 
+Ich helfe Agenturen dabei, Engpässe in der Backend-Entwicklung zu schließen, indem ich geschlossene Backend-Module auf Basis von **Spring Boot**, die direkt in bestehende Infrastrukturen integriert werden können.
 
 Egal ob für ein konkretes Feature oder ein zeitlich begrenztes Projekt: **Ich liefere Ergebnisse, keine Diskussionen.**
 
