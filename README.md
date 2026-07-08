@@ -13,6 +13,7 @@ Egal ob für ein konkretes Feature oder ein zeitlich begrenztes Projekt: **Ich l
 * **Zuverlässigkeit**: Fokus auf das Wesentliche durch klare Kommunikation. Schnelle Ergebnisse durch strukturiertes Arbeiten.
 * **Arbeitsweise**: Erstellung eines maßgeschneiderten Pflichtenhefts, Fokus auf saubere Architektur, definieren von Test-Cases.
 * **Faire Preise**: Angebote werden ausschließlich auf Festpreis-Basis gestellt.
+* **Dokumentation**: OpenAPI (Swagger) Dokumentation für RestAPIs, sowie eine ausführliche Spezifikation der Schnittstellen
 
 ## Mein Stack
 
@@ -20,7 +21,7 @@ Egal ob für ein konkretes Feature oder ein zeitlich begrenztes Projekt: **Ich l
 | :--- | :--- |
 | **Backend** | Java, Kotlin, Spring Boot, SQL, REST APIs |
 | **Frontend** | React (Native), JavaScript, HTML5, CSS3 |
-| **Tools** | Git, Insomnia, JUnit |
+| **Tools** | Git, Insomnia, JUnit, OpenAPI (Swagger) |
 
 ---
 
